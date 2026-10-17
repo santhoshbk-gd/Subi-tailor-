@@ -1,0 +1,1 @@
+window.SUBI_CONFIG={shopName:"SUBI TAILOR SHOP",phoneDisplay:"+91 XXXXX XXXXX",phoneLink:"",address:"Add your shop address",hours:"Update your business hours",whatsappNumber:"",supabaseUrl:"",supabaseAnonKey:""};
