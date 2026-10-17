@@ -1,1 +1,1 @@
-window.SUBI_CONFIG={shopName:"SUBI TAILOR SHOP",phoneDisplay:"+91 90809 23828",phoneLink:"+919080923828",address:"Add your shop address",hours:"Update your business hours",whatsappNumber:"919080923828",supabaseUrl:"",supabaseAnonKey:""};
+window.SUBI_CONFIG={shopName:"SUBI TAILOR SHOP",phoneDisplay:"+91 90809 23828",phoneLink:"+919080923828",address:"View our location on Google Maps",mapUrl:"https://maps.app.goo.gl/8PxATeyV9YB4mcQp6?g_st=ac",hours:"Contact us for shop timings",whatsappNumber:"919080923828",supabaseUrl:"",supabaseAnonKey:""};
