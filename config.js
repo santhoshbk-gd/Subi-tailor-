@@ -1,1 +1,1 @@
-window.SUBI_CONFIG={shopName:"SUBI TAILOR SHOP",phoneDisplay:"+91 XXXXX XXXXX",phoneLink:"",address:"Add your shop address",hours:"Update your business hours",whatsappNumber:"",supabaseUrl:"",supabaseAnonKey:""};
+window.SUBI_CONFIG={shopName:"SUBI TAILOR SHOP",phoneDisplay:"+91 90809 23828",phoneLink:"+919080923828",address:"Add your shop address",hours:"Update your business hours",whatsappNumber:"919080923828",supabaseUrl:"",supabaseAnonKey:""};
